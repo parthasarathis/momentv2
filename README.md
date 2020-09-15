@@ -8,7 +8,7 @@ Department of Mechatronics,
 Thiagarajar College of Engineering,
 Madurai-625015
 
-## credits 
+## Credits 
 
 Faculties :
 
